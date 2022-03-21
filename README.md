@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=stephenmussel&color=8e7cc3)
+
+I am a software engineer based in Minnesota.
 
 <!--
 **stephenmussel/stephenmussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
