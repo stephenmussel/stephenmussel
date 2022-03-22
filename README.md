@@ -2,12 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=stephenmussel&color=8e7cc3)
 
 I am a software engineer based in Minnesota.
-
   
-<!-- 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephenmussel&show_icons=true)
--->
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenmussel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
