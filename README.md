@@ -4,6 +4,7 @@
 I am a software engineer based in Minnesota.
   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephenmussel&theme=buefy&icon_color=7a58d5&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats-livid-psi.vercel.app/api?username=stephenmussel)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenmussel&layout=compact&title_color=7a58d5)](https://github.com/anuraghazra/github-readme-stats) 
 
