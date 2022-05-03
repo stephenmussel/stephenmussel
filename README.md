@@ -29,12 +29,8 @@ I am a software engineer based in Minnesota.
     <img src="./images/mysql.svg" height="28px" alt="mysql" style="margin: 0 1px"/>
 </p>
 
-
-
-<!--
 # Contact
 [LinkedIn](https://www.linkedin.com/in/phaydara-vongsavanthong/)
--->
 
 <!--
 **stephenmussel/stephenmussel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
