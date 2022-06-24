@@ -23,8 +23,8 @@ I am a software engineer based in Minnesota.
     <img src="./images/mui.svg" height="28px" alt="material-ui" style="margin: 0 1px"/>
     <img src="./images/jquery.svg" height="28px" alt="jquery" style="margin: 0 1px"/>
     <img src="./images/css3.svg" height="28px" alt="css3" style="margin: 0 1px"/>
+    <img src="./images/emotion.svg" height="28px" alt="emotion" style="margin: 0 1px"/>
     <img src="./images/sass.svg" height="28px" alt="sass" style="margin: 0 1px"/>
-    <img src="./images/styled-components.svg" height="28px" alt="styled components" style="margin: 0 1px"/>
     <img src="./images/html5.svg" height="28px" alt="html5" style="margin: 0 1px"/>
     <img src="./images/c-sharp.svg" height="28px" alt="c#" style="margin: 0 1px"/>
     <img src="./images/dotnet.svg" height="28px" alt=".net" style="margin: 0 1px"/>
