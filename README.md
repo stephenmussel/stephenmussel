@@ -10,10 +10,11 @@ I am a software engineer based in Minnesota.
 # Technologies
 
 <p float="left">
-    <img src="./images/react.svg" height="28px" alt="react" style="margin: 0 1px"/>
-    <img src="./images/react-native.svg" height="28px" alt="react native" style="margin: 0 1px"/>
     <img src="./images/javascript.svg" height="28px" alt="javascript"style="margin: 0 1px"/>
     <img src="./images/typescript.svg" height="28px" alt="typescript"style="margin: 0 1px"/>
+    <img src="./images/react.svg" height="28px" alt="react" style="margin: 0 1px"/>
+    <img src="./images/react-native.svg" height="28px" alt="react native" style="margin: 0 1px"/>
+    <img src="./images/vue.svg" height="28px" alt="vue"style="margin: 0 1px"/>
     <img src="./images/redux.svg" height="28px" alt="redux" style="margin: 0 1px"/>
     <img src="./images/redux-saga.svg" height="28px" alt="redux-saga" style="margin: 0 1px"/>
     <img src="./images/postgresql.svg" height="28px" alt="postgresql" style="margin: 0 1px"/>
